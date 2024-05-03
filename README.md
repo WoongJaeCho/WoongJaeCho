@@ -12,10 +12,10 @@
 ---
 
 ### 참여 프로젝트 
-1. [abookz - 도서 리뷰 사이트] ([https://yeonmitc.github.io/](https://github.com/WoongJaeCho/abookz.git))
-2. [뜨끈한우동 - 중고거래 플랫폼] ([about:blank](https://github.com/ChoiSeoungH/HotUdon.git))
-3. [렌터카 예약 서비스] ([about:blank](https://github.com/WoongJaeCho/RentcarMVC.git))
-4. [카멜업(Camel-ip)] - 웹게임 ([배포링크](https://github.com/WoongJaeCho/Camel-UP.git))
+1. ([abookz - 도서 리뷰 사이트](https://github.com/WoongJaeCho/abookz.git))
+2. ([뜨끈한우동 - 중고거래 플랫폼](https://github.com/ChoiSeoungH/HotUdon.git))
+3. ([렌터카 예약 서비스](https://github.com/WoongJaeCho/RentcarMVC.git))
+4. ([카멜업(Camel-up) - 웹게임](https://github.com/WoongJaeCho/Camel-UP.git))
 
 ---
 
@@ -34,7 +34,7 @@
     <tr>
       <td>
         <a href="#" title="프로젝트1">
-          <img align="center" src="[[https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4](https://github.com/WoongJaeCho/Camel-UP/blob/main/upload/시연영상.gif?raw=true)](https://github.com/WoongJaeCho/abookz)" width="300px" >
+          <img align="center" src="[[[https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4](https://github.com/WoongJaeCho/Camel-UP/blob/main/upload/시연영상.gif?raw=true)](https://github.com/WoongJaeCho/abookz)](https://woongjaecho.github.io/resources/images/abookz.gif)" width="300px" >
         </a>
       </td>
       <td>
