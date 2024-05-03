@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/증명사진.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/증명사진.jpg?raw=true" width="150px"/>
 <br>
 
 ### 나를 소개하는 한 문장 
@@ -39,17 +39,17 @@
       </td>
       <td>
       <a href="#" title="프로젝트2">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/hotudon.gif?raw=true" width="300px" >
         </a>
       </td>
       <td>
        <a href="#" title="프로젝트3">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
+          <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/rentercar.gif?raw=true" width="300px" >
         </a>
       </td>
       <td>
         <a href="#" title="프로젝트4">
-          <img align="center" src="[https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4](https://github.com/WoongJaeCho/Camel-UP/blob/main/upload/시연영상.gif?raw=true)" width="300px" >
+          <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/Camel-up.gif?raw=true" width="300px" >
         </a>
       </td>
       <td>
