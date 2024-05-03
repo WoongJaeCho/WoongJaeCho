@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/up/증명사진.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/증명사진.jpg?raw=true" width="100"/>
 <br>
 
 ### 나를 소개하는 한 문장 
@@ -34,7 +34,7 @@
     <tr>
       <td>
         <a href="#" title="프로젝트1">
-          <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/up/abookz.gif?raw=true" width="300px" >
+          <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/abookz.gif?raw=true" width="300px" >
         </a>
       </td>
       <td>
