@@ -12,10 +12,10 @@
 ---
 
 ### 참여 프로젝트 
-1. ([abookz - 도서 리뷰 사이트](https://github.com/WoongJaeCho/abookz.git))
-2. ([뜨끈한우동 - 중고거래 플랫폼](https://github.com/ChoiSeoungH/HotUdon.git))
-3. ([렌터카 예약 서비스](https://github.com/WoongJaeCho/RentcarMVC.git))
-4. ([카멜업(Camel-up) - 웹게임](https://github.com/WoongJaeCho/Camel-UP.git))
+1. [abookz - 도서 리뷰 사이트](https://github.com/WoongJaeCho/abookz.git)
+2. [뜨끈한우동 - 중고거래 플랫폼](https://github.com/ChoiSeoungH/HotUdon.git)
+3. [렌터카 예약 서비스](https://github.com/WoongJaeCho/RentcarMVC.git)
+4. [카멜업(Camel-up) - 웹게임](https://github.com/WoongJaeCho/Camel-UP.git)
 
 ---
 
