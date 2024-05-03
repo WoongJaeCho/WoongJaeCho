@@ -12,10 +12,10 @@
 ---
 
 ### 참여 프로젝트 
-1. [프로젝트명1 ](https://yeonmitc.github.io/)
-2. [프로젝트명2](about:blank)
-3. [프로젝트명3](about:blank)
-4. [프로젝트명4](배포링크)
+1. abookz - 도서 리뷰 사이트 ([https://yeonmitc.github.io/](https://github.com/WoongJaeCho/abookz.git))
+2. 뜨끈한우동 - 중고거래 플랫폼 ([about:blank](https://github.com/ChoiSeoungH/HotUdon.git))
+3. 렌터카 예약 서비스 ([about:blank](https://github.com/WoongJaeCho/RentcarMVC.git))
+4. 카멜업(Camel-ip) - 웹게임 ([배포링크](https://github.com/WoongJaeCho/Camel-UP.git))
 
 ---
 
@@ -28,25 +28,31 @@
 
 <br>
 
-<h2>My Project previews videos</h2>
+<h2> My Project previews </h2>
 <table>
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4" width="300px" >
+        <a href="#" title="프로젝트1">
+          <img align="center" src="[[https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4](https://github.com/WoongJaeCho/Camel-UP/blob/main/upload/시연영상.gif?raw=true)](https://github.com/WoongJaeCho/abookz)" width="300px" >
         </a>
       </td>
       <td>
-      <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2">
+      <a href="#" title="프로젝트2">
           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
       <td>
-       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
+       <a href="#" title="프로젝트3">
           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
+      <td>
+        <a href="#" title="프로젝트4">
+          <img align="center" src="[https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4](https://github.com/WoongJaeCho/Camel-UP/blob/main/upload/시연영상.gif?raw=true)" width="300px" >
+        </a>
+      </td>
+      <td>
     </tr>
   </tbody>
 </table>
