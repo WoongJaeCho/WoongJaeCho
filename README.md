@@ -54,7 +54,6 @@
           <img align="center" src="https://github.com/WoongJaeCho/WoongJaeCho/blob/main/upload/Camel-up.gif?raw=true" width="300px" >
         </a>
       </td>
-      <td>
     </tr>
   </tbody>
 </table>
